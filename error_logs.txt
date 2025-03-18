@@ -1,0 +1,2 @@
+[2025-03-18 18:19:18] ERROR: Failed to connect to database.
+[2025-03-18 18:19:18] ERROR: Memory allocation failed.

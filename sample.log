@@ -1,0 +1,4 @@
+INFO: Application started successfully.
+WARNING: Low disk space.
+ERROR: Failed to connect to database.
+ERROR: Memory allocation failed.
